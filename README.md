@@ -1,6 +1,5 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+<img width="584" alt="Screenshot 2023-07-31 at 4 41 52 PM" src="https://github.com/ahmed-eldin/blackjack-game/assets/111728755/b5cb25f9-aac9-4092-b8a4-e3fb31fc75a5">
 
 # JavaScript Blackjack Game
 
